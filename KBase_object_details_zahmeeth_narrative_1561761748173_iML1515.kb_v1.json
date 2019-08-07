@@ -1,0 +1,71 @@
+{
+    "metadata": [
+        [
+            6, 
+            "iML1515.kb", 
+            "KBaseFBA.FBAModel-11.0", 
+            "2019-07-24T14:42:14+0000", 
+            1, 
+            "zahmeeth", 
+            45678, 
+            "zahmeeth:narrative_1561761748173", 
+            "bd8bf7cc9e067e5644f2322e0f71058d", 
+            3314981, 
+            {
+                "Genome": "23938/40/4", 
+                "Name": "iML1515", 
+                "Number biomasses": "2", 
+                "Number compartments": "3", 
+                "Number compounds": "1877", 
+                "Number gapfills": "0", 
+                "Number gapgens": "0", 
+                "Number reactions": "2379", 
+                "Source": "External", 
+                "Source ID": "iML1515", 
+                "Type": "SBML Model"
+            }
+        ]
+    ], 
+    "provenance": [
+        {
+            "copy_source_inaccessible": 1, 
+            "created": "2019-02-14T22:07:29+0000", 
+            "creator": "filipeliu", 
+            "epoch": 1550182049546, 
+            "extracted_ids": {}, 
+            "info": [
+                6, 
+                "iML1515.kb", 
+                "KBaseFBA.FBAModel-11.0", 
+                "2019-07-24T14:42:14+0000", 
+                1, 
+                "zahmeeth", 
+                45678, 
+                "zahmeeth:narrative_1561761748173", 
+                "bd8bf7cc9e067e5644f2322e0f71058d", 
+                3314981, 
+                {
+                    "Genome": "23938/40/4", 
+                    "Name": "iML1515", 
+                    "Number biomasses": "2", 
+                    "Number compartments": "3", 
+                    "Number compounds": "1877", 
+                    "Number gapfills": "0", 
+                    "Number gapgens": "0", 
+                    "Number reactions": "2379", 
+                    "Source": "External", 
+                    "Source ID": "iML1515", 
+                    "Type": "SBML Model"
+                }
+            ], 
+            "orig_wsid": 23938, 
+            "path": [
+                "45678/6/1"
+            ], 
+            "provenance": [], 
+            "refs": [
+                "23938/40/4"
+            ]
+        }
+    ]
+}
